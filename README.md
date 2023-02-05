@@ -36,6 +36,8 @@ click on phpMyAdmin
 
 click on import
 
+![image](https://user-images.githubusercontent.com/76893921/216812526-b0783f92-ecde-4274-8413-5b4d7a5a5ec7.png)
+
 import the directlendingsocidia.sql file, then open :
 
 http://localhost/directLendingForm/Form.php
