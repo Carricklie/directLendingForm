@@ -35,7 +35,7 @@ STEPS TO RUN THE APP :
 
 ![image](https://user-images.githubusercontent.com/76893921/216812526-b0783f92-ecde-4274-8413-5b4d7a5a5ec7.png)
 
-6. import the directlendingsocidia.sql file 
+6. Import the directlendingsocidia.sql file 
 
 8. Open Link : http://localhost/directLendingForm/Form.php
 
