@@ -26,3 +26,9 @@ in xampp/htdocs
 
 open browser and input:
 http://localhost/directLendingForm/Form.php
+
+Assumptions List:
+- ID of postcode same as Value because postcode itself is unique for each state
+- Users need to input the correct postal code to proceed to submit where wrong postal code not be recognized
+- The postal code list is retrieved in the start of loading the website and saved in javascript variable where no crutial/forbidden information given to the user. 
+- The state filled in database only for the 3 use cases
