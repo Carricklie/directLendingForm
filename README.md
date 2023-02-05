@@ -1,6 +1,7 @@
 # directLendingForm
 Hello, 
 Carrick here!
+
 To run this app you need:
 - XAMPP (any version)
 
@@ -11,8 +12,12 @@ xampp instalation folder
 To run the app,
 Open XAMPP
 Turn on :
--Apache
--MySQL
+- Apache
+- MySQL
+
+![image](https://user-images.githubusercontent.com/76893921/216811278-c6b94188-62db-48b2-84f9-aa634b7b494b.png)
+
+download the zip
 
 put this folder in 
 
