@@ -25,7 +25,13 @@ the xampp install directory,
 in xampp/htdocs
 
 open browser and input:
+
+http://localhost/
+
+import the sql file, then open :
+
 http://localhost/directLendingForm/Form.php
+
 
 Assumptions List:
 - ID of postcode same as Value because postcode itself is unique for each state
