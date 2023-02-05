@@ -4,6 +4,7 @@ Carrick here!
 
 To run this app you need:
 - XAMPP (any version)
+Download link : https://www.apachefriends.org/download.html
 
 when installing, remember the place you install the xampp 
 because you need to put this folder in the htdocs of the 
