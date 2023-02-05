@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 05, 2023 at 10:36 AM
+-- Generation Time: Feb 05, 2023 at 10:45 AM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 8.0.12
 
@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `directlendingsocidia`
 --
+CREATE DATABASE IF NOT EXISTS `directlendingsocidia` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `directlendingsocidia`;
 
 -- --------------------------------------------------------
 
