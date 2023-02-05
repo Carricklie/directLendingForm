@@ -28,6 +28,14 @@ open browser and input:
 
 http://localhost/
 
+![image](https://user-images.githubusercontent.com/76893921/216812391-0334932a-1c63-4eb5-9e8d-1adaa1aee2c6.png)
+
+click on phpMyAdmin
+
+![image](https://user-images.githubusercontent.com/76893921/216812404-53c9131f-1057-4f8d-8e55-c8fc0081be0d.png)
+
+click on import
+
 import the sql file, then open :
 
 http://localhost/directLendingForm/Form.php
