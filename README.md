@@ -36,7 +36,7 @@ click on phpMyAdmin
 
 click on import
 
-import the sql file, then open :
+import the directlendingsocidia.sql file, then open :
 
 http://localhost/directLendingForm/Form.php
 
